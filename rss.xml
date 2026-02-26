@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI小波知识库</title><description>让AI随手可得</description><link>https://blog.aixiaobo.cn/</link><templateTheme>Firefly</templateTheme><templateThemeVersion>6.6.13</templateThemeVersion><templateThemeUrl>https://github.com/CuteLeaf/Firefly</templateThemeUrl><lastBuildDate>2026年2月26日 22:06:53</lastBuildDate><item><title>2026年谷歌账号申诉全流程（附模板）！轻松找回被封账户！</title><link>https://blog.aixiaobo.cn/posts/%E8%B0%B7%E6%AD%8C%E5%B0%81%E5%8F%B7%E5%81%9C%E7%94%A8%E6%95%99%E7%A8%8B%E8%AF%B4%E6%98%8E_ai%E5%B0%8F%E6%B3%A2/</link><guid isPermaLink="true">https://blog.aixiaobo.cn/posts/%E8%B0%B7%E6%AD%8C%E5%B0%81%E5%8F%B7%E5%81%9C%E7%94%A8%E6%95%99%E7%A8%8B%E8%AF%B4%E6%98%8E_ai%E5%B0%8F%E6%B3%A2/</guid><description>近期谷歌风控收紧，大量新老账号遭遇停用！</description><pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate><content:encoded>&lt;div&gt;
+    &lt;div&gt;🚀 小波的 AI 创作与服务导航&lt;/div&gt;
+    &lt;div&gt;
+        &lt;div&gt;
+            &lt;span&gt;📚 ChatGPT plus直充:&lt;/span&gt; &lt;a href=&quot;http://aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;gpt.aixiaobo.cn&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;💬 联系方式:&lt;/span&gt; 微信加 &lt;span&gt;aibxs606&lt;/span&gt; (GPT Plus)
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;🛒 Gemini成品号:&lt;/span&gt; &lt;a href=&quot;https://aixiaobo.icu/&quot; target=&quot;_blank&quot;&gt;aixiaobo.icu&lt;/a&gt; (Gemini pro)
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;🎬 Sora 创作站点:&lt;/span&gt; &lt;a href=&quot;http://sora.aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;sora.aixiaobo.cn&lt;/a&gt; (免魔法/无水印)
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;🖼️ Nano banana创作站点:&lt;/span&gt; &lt;a href=&quot;http://nb.aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;nb.aixiaobo.cn&lt;/a&gt; (Nano Banana)
+        &lt;/div&gt;
+         &lt;div&gt;
+            &lt;span&gt;📊 api站点:&lt;/span&gt; &lt;a href=&quot;http://ppt.aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;api.aixiaobo.cn&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;&lt;p&gt;💡 &lt;strong&gt;核心提示&lt;/strong&gt;
+近期谷歌针对账号的风控非常严重，有不少的小伙伴都出现了账号被封的情况，特别是新号。部分人甚至可能一注册之后，就出现了账号停用的情况。&lt;/p&gt;&lt;p&gt;针对于账号停用的问题，小波这里给大家归纳了停用的原因以及申诉的思路。
+&lt;span&gt;&lt;strong&gt;另外再强调一点，小波这里不推荐、不沟通任何魔法产品！（真的别来问了兄弟们）&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;section&gt;&lt;h2&gt;一、账号停用原因&lt;a href=&quot;#一账号停用原因&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;以下是官方说明的封号原因：&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;⚠️ &lt;strong&gt;异常登录行为&lt;/strong&gt;：在短时间内使用不同 IP 地址或多个设备登录同一账号，可能被 Google 系统判定为存在安全风险或非正常使用。&lt;/li&gt;
+&lt;li&gt;🚫 &lt;strong&gt;违反内容政策&lt;/strong&gt;：发布或传播垃圾邮件、恶意软件、仿冒产品信息或其他违规内容。&lt;/li&gt;
+&lt;li&gt;🔗 &lt;strong&gt;关联账号被封&lt;/strong&gt;：同一个手机号码或辅助邮箱关联的多个账号中，若有账号违规被封，可能会连带影响其他关联账号。&lt;/li&gt;
+&lt;li&gt;💤 &lt;strong&gt;长期闲置&lt;/strong&gt;：账号长时间未登录使用，Google 有权删除该闲置账号及其数据。&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;注意：注册时间小于一年的，都算是新号。&lt;/strong&gt;&lt;/span&gt; 新号要注意养号，老号怎么折腾都没事。&lt;/p&gt;&lt;section&gt;&lt;h3&gt;新号被封的核心原因（实际情况）&lt;a href=&quot;#新号被封的核心原因实际情况&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;实际上，新号被封号的原因主要有以下几点：&lt;/p&gt;&lt;ol&gt;
+&lt;li&gt;🌐 &lt;strong&gt;魔法 / IP 问题（针对自行注册）&lt;/strong&gt;：IP 已经被大批量的人使用注册，当谷歌风控时，会把这个 IP 下注册的所有谷歌账号都进行风控停用。&lt;/li&gt;
+&lt;li&gt;🔄 &lt;strong&gt;IP 切换问题（针对第三方账号）&lt;/strong&gt;：账号到手之后，随意切换 IP 以及登录新设备（一会在美国，一会在日本），容易被谷歌判断为账号异常。&lt;/li&gt;
+&lt;li&gt;☣️ &lt;strong&gt;IP 污染问题（针对第三方账号）&lt;/strong&gt;：之前用的某个 IP 没问题，但因为某些原因需要切换到另外一个 IP，恰好该 IP 是高危 IP，最后被连带风控了。&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;&lt;strong&gt;其他少部分原因：&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;账号长时间不用，导致账号无正常用户行为，最后被停用。&lt;/li&gt;
+&lt;li&gt;账号信息绑定过少，只有账号密码，无其他安全信息验证。&lt;/li&gt;
+&lt;/ul&gt;&lt;blockquote&gt;&lt;p&gt;📘 &lt;strong&gt;学习指南&lt;/strong&gt;
+不知道需要绑定哪些信息的可参考文档：&lt;a href=&quot;https://ai.feishu.cn/wiki/JZXOw2PaXirBn5kFli7cs5uHnef?from=from_copylink&quot; target=&quot;_blank&quot;&gt;谷歌新账号使用手册（大家一定要认真看！）_AI小波&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;hr /&gt;&lt;/section&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;二、账号申诉流程&lt;a href=&quot;#二账号申诉流程&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;步骤 1：登录自己账号&lt;/th&gt;&lt;th&gt;步骤 2：点击发起申诉&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E8%B0%B7%E6%AD%8C%E5%B0%81%E5%8F%B7%E5%81%9C%E7%94%A8%E6%95%99%E7%A8%8B%E8%AF%B4%E6%98%8E_Ai%E5%B0%8F%E6%B3%A2-image-1.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:EUvnoa2xtSl3eg5V1O2uec-EH5U=&quot; alt=&quot;登录自己账号&quot; /&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E8%B0%B7%E6%AD%8C%E5%B0%81%E5%8F%B7%E5%81%9C%E7%94%A8%E6%95%99%E7%A8%8B%E8%AF%B4%E6%98%8E_Ai%E5%B0%8F%E6%B3%A2-image-2.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:Ll28KG6lzF-aTyhXLXtCUcqIU1U=&quot; alt=&quot;点击发起申诉&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;谷歌的申诉是相对比较宽松的，申诉通过率普遍在 70% 以上。&lt;/p&gt;&lt;p&gt;虽然单个账号有多次申诉的机会，但必须注意：
+&lt;span&gt;&lt;strong&gt;首次申诉最为关键！如果第一次申诉不通过，后续大概率也不会通过。&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;section&gt;&lt;h3&gt;申诉提示词参考&lt;a href=&quot;#申诉提示词参考&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;下方是五条对应的提示词，大家可以直接拿去给 AI 生成申诉信。提交之前记得检查下文案有没有问题（部分 AI 会让你手动补充一些信息）。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;使用场景&lt;/th&gt;&lt;th&gt;AI 提示词 (Prompt)&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;🤖 &lt;strong&gt;针对机器人误判&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;请帮我写一封发给 Google 官方的申诉邮件。我的账号停用原因是“该帐户可能是由计算机程序或机器人创建的”。请在文中清楚地说明：我是一名真实的人类用户，该账号完全由我手动注册并用于个人用途，没有任何自动化行为。 要求： 请用英文撰写，语气专业且礼貌，单词数控制在 200 字以内。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;👤 &lt;strong&gt;强调纯人工操作&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;请生成一份针对 Google 账号被封的英文申诉文案。封号理由是“涉嫌由机器人创建”，但这完全是系统的误判。请在文案中强调：我没有使用任何脚本或程序，所有操作都是人工进行的，请求 Google 支持团队进行人工审查并恢复我的账号。 要求： 必须用英文表达，逻辑清晰，语气坚定，字数不要超过 200 字。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;📱 &lt;strong&gt;主动要求身份验证&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;我需要一段英文申诉短文，用于恢复被误判为“程序创建”的 Google 账号。请在文中重点表达：我是一个真实用户，如果系统存疑，我非常愿意配合进行手机号验证或其他身份验证，以证明我不是机器人。 要求： 英文撰写，措辞诚恳，篇幅控制在 200 字以内。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;🌍 &lt;strong&gt;解释网络环境复杂&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;请帮我起草一份 Google 账号解封申诉。针对系统判定“账号由机器人创建”这一点，请委婉解释可能是由于我的网络环境复杂（例如使用了公共网络或 IP 变动）触发了安全警报，但请重申账号的注册和使用均由本人手动完成。 要求： 使用英文，解释要通顺合理，总字数在 200 字以内。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;💬 &lt;strong&gt;直接声明日常用途&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;请直接帮我写一段回复给 Google 团队的申诉内容。针对“账号疑似由程序创建”的指控，直接予以否认，简单有力地声明我是账号的唯一操作者，账号用于日常正常通讯，并非垃圾号。 要求： 用英文写，直奔主题，不要冗长的客套话，严格控制在 150 字左右。&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;当然，也有个别小伙伴乱写也解封的，所以整体的申诉成功率还是很高的。正常提交之后等待即可。&lt;/p&gt;&lt;hr /&gt;&lt;/section&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;三、解封之后显示号码验证频繁&lt;a href=&quot;#三解封之后显示号码验证频繁&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;部分账号在申诉解封之后，依然无法登录账号，登录的时候，显示“尝试失败次数过多”。&lt;/p&gt;&lt;div&gt;
+&lt;img src=&quot;https://img.aixiaobo.cn/image/%E8%B0%B7%E6%AD%8C%E5%B0%81%E5%8F%B7%E5%81%9C%E7%94%A8%E6%95%99%E7%A8%8B%E8%AF%B4%E6%98%8E_Ai%E5%B0%8F%E6%B3%A2-image.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:LImT5FUYPo0Hh4cNF5r6LJll-8c=&quot; alt=&quot;尝试失败次数过多&quot; /&gt;
+&lt;/div&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;此时大家不要频繁着急登录尝试，必须先将账号冷置一段时间。&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;⏳ 冷置尝试时间建议：&lt;/strong&gt;&lt;/p&gt;&lt;ol&gt;
+&lt;li&gt;2天（48小时）&lt;/li&gt;
+&lt;li&gt;7天&lt;/li&gt;
+&lt;li&gt;2周&lt;/li&gt;
+&lt;li&gt;30天&lt;/li&gt;
+&lt;/ol&gt;&lt;blockquote&gt;&lt;p&gt;💡 &lt;strong&gt;解决思路&lt;/strong&gt;
+意思就是 2 天后再进行登录，如果还是不行的话，就重新等一周，以此类推。这个问题小波也找过客服，但是客服也解决不了，同样建议让小波等待。另外翻了下国外社区的帖子，基本都是让等，没有其他解法。所以建议大家出现号码验证频繁的情况，严格按照上方时间去做等待就行。&lt;/p&gt;&lt;/blockquote&gt;&lt;/section&gt;</content:encoded></item><item><title>seedance使用入口及官方教程</title><link>https://blog.aixiaobo.cn/posts/seedance%E4%BD%BF%E7%94%A8%E5%85%A5%E5%8F%A3%E5%8F%8A%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B_ai%E5%B0%8F%E6%B3%A2/</link><guid isPermaLink="true">https://blog.aixiaobo.cn/posts/seedance%E4%BD%BF%E7%94%A8%E5%85%A5%E5%8F%A3%E5%8F%8A%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B_ai%E5%B0%8F%E6%B3%A2/</guid><description>全网白嫖入口汇总</description><pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate><content:encoded>&lt;div&gt;
+    &lt;div&gt;🚀 小波的 AI 创作与服务导航&lt;/div&gt;
+    &lt;div&gt;
+        &lt;div&gt;
+            &lt;span&gt;📚 ChatGPT plus直充:&lt;/span&gt; &lt;a href=&quot;http://aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;gpt.aixiaobo.cn&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;💬 联系方式:&lt;/span&gt; 微信加 &lt;span&gt;aibxs606&lt;/span&gt; (GPT Plus)
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;🛒 Gemini成品号:&lt;/span&gt; &lt;a href=&quot;https://aixiaobo.icu/&quot; target=&quot;_blank&quot;&gt;aixiaobo.icu&lt;/a&gt; (Gemini pro)
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;🎬 Sora 创作站点:&lt;/span&gt; &lt;a href=&quot;http://sora.aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;sora.aixiaobo.cn&lt;/a&gt; (免魔法/无水印)
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;🖼️ Nano banana创作站点:&lt;/span&gt; &lt;a href=&quot;http://nb.aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;nb.aixiaobo.cn&lt;/a&gt; (Nano Banana)
+        &lt;/div&gt;
+         &lt;div&gt;
+            &lt;span&gt;📊 api站点:&lt;/span&gt; &lt;a href=&quot;http://ppt.aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;api.aixiaobo.cn&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;section&gt;&lt;h2&gt;一、简介&lt;a href=&quot;#一简介&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;blockquote&gt;&lt;p&gt;💡 &lt;span&gt;&lt;strong&gt;2月6日，字节跳动旗下的视频模型Seedance 2.0突然上线。&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;没有漫长的排队申请，也没有遮遮掩掩的内测邀请，它在春节这个年度最大流量窗口，就这么直接扔给了大众。&lt;/p&gt;&lt;p&gt;目前经过实测，目前在分镜以及一致性上面是真的好，而且支持真人动漫3D等多种风格，视频最长支持15秒，算是目前比较好的平替了。&lt;/p&gt;&lt;section&gt;&lt;h3&gt;📊 核心能力维度对照表&lt;a href=&quot;#-核心能力维度对照表&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;核心维度&lt;/th&gt;&lt;th&gt;Seedance 2.0 配置详情&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;图片输入&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;≤ 9 张&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;视频输入&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;≤ 3 个，总时长不超过15s（有参考视频会贵一点）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;音频输入&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;支持 MP3 上传，数量≤ 3 个，总时长不超过15s&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;文本输入&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;自然语言&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;生成时长&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;≤ 15s，可自由选择4-15s&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;声音输出&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;自带音效/配乐&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;交互限制&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;span&gt;&lt;strong&gt;目前支持的混合输入总上限是 12 个文件。建议优先上传对画面或节奏影响最大的素材，合理分配不同模态的文件数量。&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;另外，官方也提供了飞书教程，包含多个案例以及使用技巧，建议大家收藏保存：
+🔗 &lt;a href=&quot;https://bytedance.larkoffice.com/wiki/A5RHwWhoBiOnjukIIw6cu5ybnXQ?from=from_copylink&quot; target=&quot;_blank&quot;&gt;🎬 即梦 Seedance 2.0 使用手册（全新多模态创作体验）&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;
+&lt;img src=&quot;https://img.aixiaobo.cn/image/seedance%E4%BD%BF%E7%94%A8%E5%85%A5%E5%8F%A3%E5%8F%8A%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-8.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:tvuLH6lGuJjQ_hzrwM9L6dstz6E=&quot; alt=&quot;部分案例截图&quot; /&gt;&lt;hr /&gt;&lt;/section&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;二、模型使用入口（已上线渠道）&lt;a href=&quot;#二模型使用入口已上线渠道&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;section&gt;&lt;h3&gt;2.1 小云雀（免费且无需申请）&lt;a href=&quot;#21-小云雀免费且无需申请&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;&lt;blockquote&gt;&lt;p&gt;🏷️ &lt;strong&gt;一句话介绍&lt;/strong&gt;：字节跳动出的AI视频智能体，专注于视频内容创作。&lt;/p&gt;&lt;/blockquote&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;strong&gt;Seedance 2.0 限时全员可用，所有用户限免3次（不扣积分）&lt;/strong&gt;&lt;/span&gt;。&lt;/li&gt;
+&lt;li&gt;次数用完后开始按照积分计费，目前1秒=8积分。&lt;/li&gt;
+&lt;li&gt;目前每天登录即送130积分。&lt;/li&gt;
+&lt;/ul&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/seedance%E4%BD%BF%E7%94%A8%E5%85%A5%E5%8F%A3%E5%8F%8A%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-7.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:RAX5Ne18bnqjDmnPwz042mw8BR4=&quot; /&gt;&lt;p&gt;&lt;strong&gt;💰 费用说明&lt;/strong&gt;
+视频生成功能，非会员 10 积分/秒。具体订阅费用可参考下方（估计做漫剧的要开几个账号才够了）：&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;订阅参考图 1&lt;/th&gt;&lt;th&gt;订阅参考图 2&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/seedance%E4%BD%BF%E7%94%A8%E5%85%A5%E5%8F%A3%E5%8F%8A%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:dljzq7H38rFRyezQjyJyX0K36Dw=&quot; /&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/seedance%E4%BD%BF%E7%94%A8%E5%85%A5%E5%8F%A3%E5%8F%8A%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-34decb9ad1c224ef3e9eff909ec9c9a0.jpg?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:Q_FnkEBLwAFnUF76K8D-OAPWZsA=&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;📥 下载及使用步骤&lt;/strong&gt;&lt;/p&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;官方下载入口&lt;/strong&gt;（初次打开请用手机浏览器）：&lt;a href=&quot;https://xiaoyunque.jianying.com/s/05dXL0GA-ao/&quot; target=&quot;_blank&quot;&gt;点击前往&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;用 App 通过抖音授权注册后，即可在网页版上使用。&lt;/li&gt;
+&lt;/ol&gt;&lt;br /&gt;&lt;/section&gt;&lt;section&gt;&lt;h3&gt;2.2 即梦AI（需1元开通会员）&lt;a href=&quot;#22-即梦ai需1元开通会员&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;即梦需要开通会员后才有概率获得 Seedance 2.0 的使用资格。&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;💡 &lt;span&gt;&lt;strong&gt;目前最实惠的方式就是开通1元的试用套餐。&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/seedance%E4%BD%BF%E7%94%A8%E5%85%A5%E5%8F%A3%E5%8F%8A%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-1.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:aZNuUIrhrcq4n560dJZguEIeEmw=&quot; /&gt;&lt;p&gt;&lt;strong&gt;📥 下载说明&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;官方下载入口&lt;/strong&gt;（初次打开请用手机浏览器）：&lt;a href=&quot;https://m.jimeng.jianying.com/s/khrqBvP4L7g/?t=0&quot; target=&quot;_blank&quot;&gt;点击前往&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;br /&gt;&lt;/section&gt;&lt;section&gt;&lt;h3&gt;2.3 火山引擎&lt;a href=&quot;#23-火山引擎&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;这是字节的官方云服务平台。&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;注册入口&lt;/strong&gt;：&lt;a href=&quot;https://activity.volcengine.com/2026/newyear-referral?ac=MMADFCCYM3WJ&amp;amp;rc=C6K44YNZ&quot; target=&quot;_blank&quot;&gt;点击注册&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;&lt;strong&gt;新注册会送免费 5,000,000 tokens，支撑 15 条左右视频。&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;注册号之后，打开下方 AI 体验中心即可使用。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;使用入口网址&lt;/strong&gt;：&lt;a href=&quot;https://exp.volcengine.com/ark/vision?_vtm_=0.0.c70961.d701978.0&amp;amp;mode=vision&amp;amp;tab=GenVideo&amp;amp;modelId=doubao-seedance-2-0-260128&quot; target=&quot;_blank&quot;&gt;点击前往体验中心&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/seedance%E4%BD%BF%E7%94%A8%E5%85%A5%E5%8F%A3%E5%8F%8A%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-2.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:G68hXy_Vk8OJrDLsQggMm6rI0pU=&quot; /&gt;&lt;hr /&gt;&lt;/section&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;三、待上线及国际入口&lt;a href=&quot;#三待上线及国际入口&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;section&gt;&lt;h3&gt;3.1 小云雀国际网页版渠道（需全局网络环境）&lt;a href=&quot;#31-小云雀国际网页版渠道需全局网络环境&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;国际版会多出 veo3 以及 sora2 的模型，选择更加多样化。但需要注意，目前部分账号似乎还没有灰度测试到最新的 Seedance 模型。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;支持每日签到领取积分&lt;/th&gt;&lt;th&gt;有多个模型可以选择&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/seedance%E4%BD%BF%E7%94%A8%E5%85%A5%E5%8F%A3%E5%8F%8A%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-3.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:yxW7Vpnm70mBBIIB4oYGYQfbgMo=&quot; /&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/seedance%E4%BD%BF%E7%94%A8%E5%85%A5%E5%8F%A3%E5%8F%8A%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-4.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:WDaAS053LCTPMp6Xbp8ho4dLYAA=&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;blockquote&gt;&lt;p&gt;⚠️ &lt;span&gt;&lt;strong&gt;核心操作提示：&lt;/strong&gt;&lt;/span&gt; 国际版支持 0 元开通 7 日会员，并且可以使用国区的 PayPal 绑定开通。开通之后，即按照比例赠送对应额度（&lt;strong&gt;另外大家记得去 PayPal 取消自动订阅！&lt;/strong&gt;）。&lt;/p&gt;&lt;/blockquote&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;订阅操作指引 1&lt;/th&gt;&lt;th&gt;订阅操作指引 2&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/seedance%E4%BD%BF%E7%94%A8%E5%85%A5%E5%8F%A3%E5%8F%8A%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-5.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:2EQ-ZoYdhd84t75pFa60Qz7uZUY=&quot; /&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/seedance%E4%BD%BF%E7%94%A8%E5%85%A5%E5%8F%A3%E5%8F%8A%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-6.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:El7IoPR3Pdk9jv-ZkJlUtTR0eik=&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;官方入口&lt;/strong&gt;：&lt;a href=&quot;https://www.pippit.ai/i/bPNQfsxMZo7i&quot; target=&quot;_blank&quot;&gt;点击前往&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;br /&gt;&lt;/section&gt;&lt;section&gt;&lt;h3&gt;3.2 国际版即梦 &amp;amp; higgsfield&lt;a href=&quot;#32-国际版即梦--higgsfield&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;🌐 &lt;strong&gt;国际版即梦&lt;/strong&gt;：&lt;a href=&quot;http://dreamina.capcut.com/&quot; target=&quot;_blank&quot;&gt;http://dreamina.capcut.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🌌 &lt;strong&gt;higgsfield&lt;/strong&gt;：&lt;a href=&quot;https://higgsfield.ai/seedance/2.0&quot; target=&quot;_blank&quot;&gt;https://higgsfield.ai/seedance/2.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;&lt;/section&gt;</content:encoded></item><item><title>谷歌账号恢复学生认证资格全流程</title><link>https://blog.aixiaobo.cn/posts/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E6%81%A2%E5%A4%8D%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81%E8%B5%84%E6%A0%BC%E5%85%A8%E6%B5%81%E7%A8%8B_ai%E5%B0%8F%E6%B3%A2/</link><guid isPermaLink="true">https://blog.aixiaobo.cn/posts/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E6%81%A2%E5%A4%8D%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81%E8%B5%84%E6%A0%BC%E5%85%A8%E6%B5%81%E7%A8%8B_ai%E5%B0%8F%E6%B3%A2/</guid><description>帮你排除各种丢失学生认证资格的原因</description><pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate><content:encoded>&lt;div&gt;
+    &lt;div&gt;🚀 小波的 AI 创作与服务导航&lt;/div&gt;
+    &lt;div&gt;
+        &lt;div&gt;
+            &lt;span&gt;📚 导航主页:&lt;/span&gt; &lt;a href=&quot;http://aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;aixiaobo.cn&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;💬 联系方式:&lt;/span&gt; 微信加 &lt;span&gt;aibxs606&lt;/span&gt; (GPT Plus)
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;🛒 AI套餐充值:&lt;/span&gt; &lt;a href=&quot;https://aixiaobo.icu/&quot; target=&quot;_blank&quot;&gt;aixiaobo.icu&lt;/a&gt; (Gemini/GPT)
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;🎬 Sora 创作站点:&lt;/span&gt; &lt;a href=&quot;http://sora.aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;sora.aixiaobo.cn&lt;/a&gt; (免魔法/无水印)
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;🖼️ Nano banana创作站点:&lt;/span&gt; &lt;a href=&quot;http://nb.aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;nb.aixiaobo.cn&lt;/a&gt; (Nano Banana)
+        &lt;/div&gt;
+         &lt;div&gt;
+            &lt;span&gt;📊 api站点:&lt;/span&gt; &lt;a href=&quot;http://ppt.aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;api.aixiaobo.cn&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;&lt;p&gt;💡 &lt;strong&gt;核心提示&lt;/strong&gt;
+&lt;span&gt;&lt;strong&gt;温馨提示：如果你已经有了学生认证资格，请勿随意转区或者删除支付资料，可能会导致学生资格丢失！&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;section&gt;&lt;h1&gt;1. ip环境配置问题&lt;a href=&quot;#1-ip环境配置问题&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;&lt;section&gt;&lt;h2&gt;1.1 基础排除检查&lt;a href=&quot;#11-基础排除检查&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;在进行操作之前，最好检查一下自己的魔法节点有没有问题，有问题的节点，怎么操作都不行！！&lt;/p&gt;&lt;p&gt;🌍 &lt;span&gt;&lt;strong&gt;地区建议优先级：美国、日本、新加坡&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;🔗 &lt;strong&gt;测试ip环境网址&lt;/strong&gt;：&lt;a href=&quot;https://ping0.cc/&quot; target=&quot;_blank&quot;&gt;https://ping0.cc/&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E6%81%A2%E5%A4%8D%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81%E8%B5%84%E6%A0%BC%E5%85%A8%E6%B5%81%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-14.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:x4yCTrXQdmpmT0foHcsucfzxzcw=&quot; /&gt;&lt;/th&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E6%81%A2%E5%A4%8D%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81%E8%B5%84%E6%A0%BC%E5%85%A8%E6%B5%81%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-12.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:0Iw3R9-hO3Wsb17zCCQUiet7XaI=&quot; /&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;/table&gt;&lt;p&gt;⚠️ &lt;span&gt;&lt;strong&gt;纯净度大于红色的就别用了，风控比较厉害，而且容易封号。&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;设置好ip之后然后可以登录gemini官网，看看自己账号是否能正常进入对话。
+如果无法进入就切换节点即可解决，出现下方“不支持所在地区”的原因就是因为节点ip有问题。&lt;/p&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E6%81%A2%E5%A4%8D%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81%E8%B5%84%E6%A0%BC%E5%85%A8%E6%B5%81%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-13.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:OKjTvWfCBgyP793pxZkC3yx-UrQ=&quot; /&gt;&lt;hr /&gt;&lt;/section&gt;&lt;section&gt;&lt;h2&gt;1.2 浏览器环境&lt;a href=&quot;#12-浏览器环境&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;确定魔法ip都没问题的话，&lt;span&gt;&lt;strong&gt;直接开启无痕模式进行操作即可&lt;/strong&gt;&lt;/span&gt;，避免受到其他插件以及网页缓存的影响。&lt;/p&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E6%81%A2%E5%A4%8D%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81%E8%B5%84%E6%A0%BC%E5%85%A8%E6%B5%81%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-11.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:SXCuBWs9hI-vlFPDbYydkeW7yHA=&quot; /&gt;&lt;hr /&gt;&lt;/section&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h1&gt;2. 删除谷歌支付资料&lt;a href=&quot;#2-删除谷歌支付资料&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;因为有些谷歌账号曾经用过国内的卡，或者其他没有学生资格地区的卡支付过商品，会导致谷歌商店的地区定位有问题。这里按照步骤删除支付资料，帮助账号恢复默认即可。（实测有效，有不少小伙伴删了之后就出现了学生认证资格了。）&lt;/p&gt;&lt;p&gt;&lt;strong&gt;以下是操作步骤：&lt;/strong&gt;&lt;/p&gt;&lt;ol&gt;
+&lt;li&gt;🔐 先登录上自己的谷歌账号，然后打开链接：&lt;a href=&quot;https://myaccount.google.com/&quot; target=&quot;_blank&quot;&gt;https://myaccount.google.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💳 进入管理谷歌后台页面，点击【付款与订阅】，再点击管理付款方式。&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E6%81%A2%E5%A4%8D%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81%E8%B5%84%E6%A0%BC%E5%85%A8%E6%B5%81%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:raaXyHkK4q0-suYqG8qjIJiOCn0=&quot; /&gt;&lt;/th&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E6%81%A2%E5%A4%8D%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81%E8%B5%84%E6%A0%BC%E5%85%A8%E6%B5%81%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-1.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:T2Agr7UkIZQT4VFnSjTfzTAwqkU=&quot; /&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;/table&gt;&lt;ol&gt;
+&lt;li&gt;🛡️ 按照提示，完成安全验证（手机验证码、邮箱之类的）后即可进入到支付管理界面，我们点击【设置】。&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E6%81%A2%E5%A4%8D%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81%E8%B5%84%E6%A0%BC%E5%85%A8%E6%B5%81%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-2.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:fjkixml7TW1hEBH9fRjUAYc2DpM=&quot; /&gt;&lt;/th&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E6%81%A2%E5%A4%8D%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81%E8%B5%84%E6%A0%BC%E5%85%A8%E6%B5%81%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-3.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:-fH8oqwvZTema_Y47S865e_Ep8M=&quot; /&gt;&lt;/th&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E6%81%A2%E5%A4%8D%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81%E8%B5%84%E6%A0%BC%E5%85%A8%E6%B5%81%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-4.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:yVoHWzDmU5Kmov3XNLj8kmCI4k8=&quot; /&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;/table&gt;&lt;ol&gt;
+&lt;li&gt;⚙️ 进入到设置之后，一直向下滑动页面，滑倒底部即可看到关闭支付资料的蓝字，我们点击【关闭支付资料】，随后会弹出一个窗口，我们随便选一个原因之后，&lt;span&gt;&lt;strong&gt;点击【关闭支付资料】&lt;/strong&gt;&lt;/span&gt;。&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E6%81%A2%E5%A4%8D%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81%E8%B5%84%E6%A0%BC%E5%85%A8%E6%B5%81%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-5.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:Y5SQ1MCU_XKq41HQzUiebilgqhE=&quot; /&gt;&lt;/th&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E6%81%A2%E5%A4%8D%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81%E8%B5%84%E6%A0%BC%E5%85%A8%E6%B5%81%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-6.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:2u7bCJ5OEz6bnJCwIR5wOBv6jLM=&quot; /&gt;&lt;/th&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E6%81%A2%E5%A4%8D%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81%E8%B5%84%E6%A0%BC%E5%85%A8%E6%B5%81%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-7.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:_40iH9xez87F4xIx4oyeyn188lg=&quot; /&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;/table&gt;&lt;ol&gt;
+&lt;li&gt;✅ 正确关闭之后，进入付款中心的界面如下，显示添加支付方式。&lt;/li&gt;
+&lt;/ol&gt;&lt;blockquote&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;提示：如果你有多份支付资料的话，可能需要删除多次，根据自己的账号情况进行调整即可。&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E6%81%A2%E5%A4%8D%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81%E8%B5%84%E6%A0%BC%E5%85%A8%E6%B5%81%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-8.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:zCg2IrxTDF5D-anCDB7ykVCCfMw=&quot; /&gt;&lt;hr /&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h1&gt;3. 完成年龄验证&lt;a href=&quot;#3-完成年龄验证&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;在官方页面里面，对年龄是有一定要求的，所以我们还需要完成年龄认证。&lt;/p&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E6%81%A2%E5%A4%8D%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81%E8%B5%84%E6%A0%BC%E5%85%A8%E6%B5%81%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-9.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:ZIha6QKgWI1hS6XWixS8qEVJ9HA=&quot; /&gt;&lt;p&gt;&lt;strong&gt;验证步骤：&lt;/strong&gt;&lt;/p&gt;&lt;ol&gt;
+&lt;li&gt;📱 &lt;strong&gt;打开直达链接（最好使用手机操作）&lt;/strong&gt;：&lt;a href=&quot;https://myaccount.google.com/age-verification?hl=zh-CN&amp;amp;utm_source=p0&quot; target=&quot;_blank&quot;&gt;https://myaccount.google.com/age-verification?hl=zh-CN&amp;amp;utm_source=p0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🤳 打开之后，&lt;span&gt;&lt;strong&gt;我们选择拍一张自拍照，然后用手机按照流程操作，就会自动通过了，非常快。&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E6%81%A2%E5%A4%8D%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81%E8%B5%84%E6%A0%BC%E5%85%A8%E6%B5%81%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-10.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:f5PBhNnVsmUjFqz2rOaDmQkG0kU=&quot; /&gt;&lt;/th&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E6%81%A2%E5%A4%8D%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81%E8%B5%84%E6%A0%BC%E5%85%A8%E6%B5%81%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-15.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:F_TLFbC2Eunz_yIBNDAzLbZI-xc=&quot; /&gt;&lt;/th&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E6%81%A2%E5%A4%8D%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81%E8%B5%84%E6%A0%BC%E5%85%A8%E6%B5%81%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-16.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:4YujtHyk4ht8d0bma-pibAaK4DU=&quot; /&gt;&lt;/th&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E6%81%A2%E5%A4%8D%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81%E8%B5%84%E6%A0%BC%E5%85%A8%E6%B5%81%E7%A8%8B_AI%E5%B0%8F%E6%B3%A2-image-17.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:knXZOS55NbQgLk3J7snrVUjLPPA=&quot; /&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;/table&gt;&lt;hr /&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h1&gt;4. 账号地区问题（选做）&lt;a href=&quot;#4-账号地区问题选做&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;如果你做完上面几个步骤，依然没有认证资格的话，可以找时间把自己账号的归属地区转为美区，教程按照下方视频进行操作即可。&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;⚠️ &lt;strong&gt;转区警告&lt;/strong&gt;
+&lt;span&gt;&lt;strong&gt;再次提醒，如果你的账号已经有了学生认证资格的话，请勿申请转区，避免学生认证资格丢失！&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;💡 &lt;strong&gt;备注说明&lt;/strong&gt;：是否有学生资格跟账号的地区没有必然的联系，哪怕是国内地区的账号，一样有可能获得学生资格，所以大家不必过于纠结账号地区。&lt;/p&gt;
+&lt;hr /&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h1&gt;5. 等待与后续方案&lt;a href=&quot;#5-等待与后续方案&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;⏳ 你按照上方全部操作完成，&lt;span&gt;&lt;strong&gt;且等了7天之后仍然没资格的话，小波建议你这边直接更换账号就行&lt;/strong&gt;&lt;/span&gt;。如果刷出了资格，建议马上进行认证，因为资格有可能会随着时间丢失。&lt;/p&gt;&lt;p&gt;以上就是全部内容，需要协助申请或者购买成品号的，可联系小波：aibxs606&lt;/p&gt;&lt;/section&gt;</content:encoded></item><item><title>家庭组地区不一致解决方法</title><link>https://blog.aixiaobo.cn/posts/%E5%AE%B6%E5%BA%AD%E7%BB%84%E5%9C%B0%E5%8C%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95_ai%E5%B0%8F%E6%B3%A2/</link><guid isPermaLink="true">https://blog.aixiaobo.cn/posts/%E5%AE%B6%E5%BA%AD%E7%BB%84%E5%9C%B0%E5%8C%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95_ai%E5%B0%8F%E6%B3%A2/</guid><description>两种解决思路分享</description><pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate><content:encoded>&lt;div&gt;
+    &lt;div&gt;🚀 小波的 AI 创作与服务导航&lt;/div&gt;
+    &lt;div&gt;
+        &lt;div&gt;
+            &lt;span&gt;📚 导航主页:&lt;/span&gt; &lt;a href=&quot;http://aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;aixiaobo.cn&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;💬 联系方式:&lt;/span&gt; 微信加 &lt;span&gt;aibxs606&lt;/span&gt; (GPT Plus)
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;🛒 AI套餐充值:&lt;/span&gt; &lt;a href=&quot;https://aixiaobo.icu/&quot; target=&quot;_blank&quot;&gt;aixiaobo.icu&lt;/a&gt; (Gemini/GPT)
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;🎬 Sora 创作站点:&lt;/span&gt; &lt;a href=&quot;http://sora.aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;sora.aixiaobo.cn&lt;/a&gt; (免魔法/无水印)
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;🖼️ Nano banana创作站点:&lt;/span&gt; &lt;a href=&quot;http://nb.aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;nb.aixiaobo.cn&lt;/a&gt; (Nano Banana)
+        &lt;/div&gt;
+         &lt;div&gt;
+            &lt;span&gt;📊 api站点:&lt;/span&gt; &lt;a href=&quot;http://ppt.aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;api.aixiaobo.cn&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;section&gt;&lt;h1&gt;家庭组地区不一致解决方法&lt;a href=&quot;#家庭组地区不一致解决方法&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;&lt;blockquote&gt;&lt;p&gt;💡 &lt;strong&gt;核心提示&lt;/strong&gt;：出现地区不一样、无法加入家庭组的小伙伴，请&lt;span&gt;&lt;strong&gt;务必切换为美国节点&lt;/strong&gt;&lt;/span&gt;，然后按照下方操作即可。&lt;/p&gt;&lt;/blockquote&gt;&lt;hr /&gt;&lt;section&gt;&lt;h2&gt;第一种解决方法&lt;a href=&quot;#第一种解决方法&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;blockquote&gt;&lt;p&gt;📌 此方法适用于大多数情况，如若不行请参考第二种方法。&lt;/p&gt;&lt;/blockquote&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;打开并进入管理网址&lt;/strong&gt;：访问 &lt;a href=&quot;https://myaccount.google.com/?hl=zh_CN&quot; target=&quot;_blank&quot;&gt;https://myaccount.google.com/?hl=zh_CN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;进入订阅管理&lt;/strong&gt;：点击进入管理 Google 账户，选择“付款与订阅”。&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E5%AE%B6%E5%BA%AD%E7%BB%84%E5%9C%B0%E5%8C%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95_Ai%E5%B0%8F%E6%B3%A2-image-9.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:wHB7iZPDoBZVbMdT2dZiFg8E31Y=&quot; /&gt;&lt;/th&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E5%AE%B6%E5%BA%AD%E7%BB%84%E5%9C%B0%E5%8C%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95_Ai%E5%B0%8F%E6%B3%A2-image-10.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:IP3cQuyz0IQ_1Qy9DgDpOwvfLa8=&quot; /&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;/table&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;进入付款中心设置&lt;/strong&gt;：点击&lt;span&gt;&lt;strong&gt;【管理付款方式】&lt;/strong&gt;&lt;/span&gt;，进入到付款中心后，再点击&lt;span&gt;&lt;strong&gt;【设置】&lt;/strong&gt;&lt;/span&gt;。&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E5%AE%B6%E5%BA%AD%E7%BB%84%E5%9C%B0%E5%8C%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95_Ai%E5%B0%8F%E6%B3%A2-image-11.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:90KTbYUcNucFpKVTvulm4-1WS_E=&quot; /&gt;&lt;/th&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E5%AE%B6%E5%BA%AD%E7%BB%84%E5%9C%B0%E5%8C%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95_Ai%E5%B0%8F%E6%B3%A2-image-8.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:8cAze3ozagMh40g3VCLEymjTeWk=&quot; /&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;/table&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;关闭付款资料&lt;/strong&gt;：在设置界面一直往下滑，点击左下角的&lt;span&gt;&lt;strong&gt;【关闭付款资料】&lt;/strong&gt;&lt;/span&gt;，并完成对应的身份/号码验证。&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E5%AE%B6%E5%BA%AD%E7%BB%84%E5%9C%B0%E5%8C%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95_Ai%E5%B0%8F%E6%B3%A2-image-5.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:lB7TSF_1BrqxeGMBXtocGdZg9aY=&quot; /&gt;&lt;/th&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E5%AE%B6%E5%BA%AD%E7%BB%84%E5%9C%B0%E5%8C%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95_Ai%E5%B0%8F%E6%B3%A2-image-7.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:pZoBeQY0Vy0QY9mEc8_09V140WU=&quot; /&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;/table&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;重新加入家庭组&lt;/strong&gt;：随便选择一个选项，然后点击【关闭付款资料】。 做完以上操作之后，再回到谷歌邮箱，点击家庭组的邮件加入即可。&lt;/li&gt;
+&lt;/ol&gt;&lt;div&gt;
+  &lt;img src=&quot;https://img.aixiaobo.cn/image/%E5%AE%B6%E5%BA%AD%E7%BB%84%E5%9C%B0%E5%8C%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95_Ai%E5%B0%8F%E6%B3%A2-image-6.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:8QnHExeqa9PgYb3f6uLV9mNGcdM=&quot; /&gt;
+&lt;/div&gt;&lt;hr /&gt;&lt;/section&gt;&lt;section&gt;&lt;h2&gt;第二种解决方法&lt;a href=&quot;#第二种解决方法&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;blockquote&gt;&lt;p&gt;⚠️ &lt;strong&gt;温馨提示&lt;/strong&gt;：如果说已经删除全部的支付资料，但仍然无法进入家庭组的话，就需要按照下方步骤操作。&lt;/p&gt;&lt;/blockquote&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;添加支付方式&lt;/strong&gt;：回到刚刚支付中心的界面，点击&lt;span&gt;&lt;strong&gt;【添加支付方式】&lt;/strong&gt;&lt;/span&gt;。&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E5%AE%B6%E5%BA%AD%E7%BB%84%E5%9C%B0%E5%8C%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95_Ai%E5%B0%8F%E6%B3%A2-image.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:3yBy_QNtX0RcSQ7raac2KicXMao=&quot; /&gt;&lt;/th&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E5%AE%B6%E5%BA%AD%E7%BB%84%E5%9C%B0%E5%8C%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95_Ai%E5%B0%8F%E6%B3%A2-image-1.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:eSwmVwn9naXDD7WqHTadaWXe4cw=&quot; /&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;/table&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;填写虚构资料&lt;/strong&gt;：请完全按照下方提供的文本进行填写（对应的填写位置，可以参考下方图片）：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;卡号：&lt;code&gt;5236860109242026 02 32 423&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;姓名：随便填&lt;/li&gt;
+&lt;li&gt;国家：选择&lt;span&gt;&lt;strong&gt;美国&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;街道一：&lt;code&gt;444 S Washington Street&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;城市：&lt;code&gt;Kalispell&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;州：&lt;code&gt;Montana&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;邮编：&lt;code&gt;59745&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;保存并忽略报错&lt;/strong&gt;：填好之后，点击右下角蓝色按钮保存。 此时网页会提示你&lt;span&gt;&lt;strong&gt;信用卡无效，不用管他&lt;/strong&gt;&lt;/span&gt;，然后再点击 &lt;code&gt;X&lt;/code&gt; 号关闭窗口。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E5%AE%B6%E5%BA%AD%E7%BB%84%E5%9C%B0%E5%8C%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95_Ai%E5%B0%8F%E6%B3%A2-image-2.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:2nNc5ojbEcpMBWRROrDc_Sal_RU=&quot; /&gt;&lt;br /&gt;各个信息填写方式如图&lt;/th&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E5%AE%B6%E5%BA%AD%E7%BB%84%E5%9C%B0%E5%8C%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95_Ai%E5%B0%8F%E6%B3%A2-image-3.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:BjZ_SemoW7nC5kw78q0WVwYNo2Q=&quot; /&gt;&lt;br /&gt;此时会报错&lt;/th&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/%E5%AE%B6%E5%BA%AD%E7%BB%84%E5%9C%B0%E5%8C%BA%E4%B8%8D%E4%B8%80%E8%87%B4%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95_Ai%E5%B0%8F%E6%B3%A2-image-4.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:kC1vqzuShYSt4T5t1xfvWNQUrSw=&quot; /&gt;&lt;br /&gt;不用管，点击关闭窗口&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;/table&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;大功告成&lt;/strong&gt;：此时再回到谷歌邮箱，点击家庭组的邮件，点击加入，即可成功参与。&lt;/li&gt;
+&lt;/ol&gt;&lt;/section&gt;&lt;/section&gt;</content:encoded></item><item><title>Sora2号码验证解决方案</title><link>https://blog.aixiaobo.cn/posts/sora%E5%8F%B7%E7%A0%81%E9%AA%8C%E8%AF%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88_ai%E5%B0%8F%E6%B3%A2/</link><guid isPermaLink="true">https://blog.aixiaobo.cn/posts/sora%E5%8F%B7%E7%A0%81%E9%AA%8C%E8%AF%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88_ai%E5%B0%8F%E6%B3%A2/</guid><description>算力收紧了，各种限制都出来了</description><pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate><content:encoded>&lt;div&gt;
+    &lt;div&gt;🚀 小波的 AI 创作与服务导航&lt;/div&gt;
+    &lt;div&gt;
+        &lt;div&gt;
+            &lt;span&gt;📚 ChatGPT plus直充:&lt;/span&gt; &lt;a href=&quot;http://aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;gpt.aixiaobo.cn&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;💬 联系方式:&lt;/span&gt; 微信加 &lt;span&gt;aibxs606&lt;/span&gt; (GPT Plus)
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;🛒 Gemini成品号:&lt;/span&gt; &lt;a href=&quot;https://aixiaobo.icu/&quot; target=&quot;_blank&quot;&gt;aixiaobo.icu&lt;/a&gt; (Gemini pro)
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;🎬 Sora 创作站点:&lt;/span&gt; &lt;a href=&quot;http://sora.aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;sora.aixiaobo.cn&lt;/a&gt; (免魔法/无水印)
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;🖼️ Nano banana创作站点:&lt;/span&gt; &lt;a href=&quot;http://nb.aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;nb.aixiaobo.cn&lt;/a&gt; (Nano Banana)
+        &lt;/div&gt;
+         &lt;div&gt;
+            &lt;span&gt;📊 api站点:&lt;/span&gt; &lt;a href=&quot;http://ppt.aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;api.aixiaobo.cn&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Sora2到现在大家都不陌生了吧。甚至这个已经是很多人做视频的比较经常使用的工具了。&lt;/p&gt;
+&lt;p&gt;但是在前天几我用不了。原因是：需要手机号验证。而中国的手机号无法验证，当前支持美国，加拿大等地区。&lt;/p&gt;
+&lt;img src=&quot;https://img.aixiaobo.cn/image/Sora%E5%8F%B7%E7%A0%81%E9%AA%8C%E8%AF%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88_AI%E5%B0%8F%E6%B3%A2-image-9.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:GGfkUbVHm15_SnmLJw5aR8cJwpk=&quot; /&gt;
+&lt;p&gt;在网上找了各种方法，才得知2026年1月7日，OPENAI更新了使用政策要手机号验证。真的让人措手不及啊。今天小波分享号码验证的解决方案。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;section&gt;&lt;h2&gt;如何跳过sora的号码验证（0116测试成功）&lt;a href=&quot;#如何跳过sora的号码验证0116测试成功&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;目前经过小波测试，&lt;span&gt;&lt;strong&gt;由谷歌账号直接授权登录的sora账号&lt;/strong&gt;&lt;/span&gt;，目前并不需要号码验证，可以直接使用。&lt;/p&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/Sora%E5%8F%B7%E7%A0%81%E9%AA%8C%E8%AF%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88_AI%E5%B0%8F%E6%B3%A2-image-10.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:43DxBGqTdp-EdKfT3xsAiU0TLgk=&quot; /&gt;&lt;hr /&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;sora号码验证方法&lt;a href=&quot;#sora号码验证方法&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;目前号码验证的解决方案就是通过海外的号码进行临时接码，临时接码是可以通过sora的号码验证的。&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;⚠️ &lt;strong&gt;核心警告&lt;/strong&gt;
+&lt;span&gt;&lt;strong&gt;如果后续出现二次号码验证的话，可能账号就用不了了，这个风险大家需自行确认考虑清楚。&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;section&gt;&lt;h3&gt;📌 号码获取渠道推荐&lt;a href=&quot;#-号码获取渠道推荐&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;🌐 &lt;strong&gt;地区选择&lt;/strong&gt;：优先选择美国或者是加拿大的，英国及其他地区也可以。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;渠道类型&lt;/th&gt;&lt;th&gt;平台/地址&lt;/th&gt;&lt;th&gt;渠道特点&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;🆓 &lt;strong&gt;免费渠道&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;1. &lt;a href=&quot;https://cn.mytempsms.com/&quot; target=&quot;_blank&quot;&gt;https://cn.mytempsms.com/&lt;/a&gt;&lt;br /&gt;2. &lt;a href=&quot;https://yunduanxin.net/US-Phone-Number/&quot; target=&quot;_blank&quot;&gt;https://yunduanxin.net/US-Phone-Number/&lt;/a&gt;&lt;/td&gt;&lt;td&gt;上方均为短效号码，号码接一次即失效。需要手动复制测试，部分号码可能已被使用。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;💰 &lt;strong&gt;收费渠道&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;小波AI商店（100%通过）&lt;/strong&gt;：aixiaobo.icu&lt;/td&gt;&lt;td&gt;商店号码有效期7~60天可自由选择，可重复接码，避免二次验证无法接码的问题。&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;hr /&gt;&lt;/section&gt;&lt;section&gt;&lt;h3&gt;🛠️ 详细验证操作步骤&lt;a href=&quot;#️-详细验证操作步骤&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;以下使用免费渠道作为演示示例：&lt;/p&gt;&lt;p&gt;&lt;strong&gt;1️⃣ 第一步：进入验证界面&lt;/strong&gt;
+登录上sora之后，点击【设置】，然后点击验证，然后就会出现号码验证的界面。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;设置入口&lt;/th&gt;&lt;th&gt;验证界面&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/Sora%E5%8F%B7%E7%A0%81%E9%AA%8C%E8%AF%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88_AI%E5%B0%8F%E6%B3%A2-image-7.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:fN4Cf-rMQUdeBx0SzsVf2Cyn0ag=&quot; /&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/Sora%E5%8F%B7%E7%A0%81%E9%AA%8C%E8%AF%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88_AI%E5%B0%8F%E6%B3%A2-image-8.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:LPif2HsR1irq9vEfWmvM7fUIy64=&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/Sora%E5%8F%B7%E7%A0%81%E9%AA%8C%E8%AF%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88_AI%E5%B0%8F%E6%B3%A2-image-6.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:lPt3r8VsWPgAoR22FPvDO_ABVUM=&quot; /&gt;&lt;p&gt;&lt;strong&gt;2️⃣ 第二步：填入测试号码&lt;/strong&gt;
+随便找个号码复制到上方号码验证界面，如果显示不行或者其他问题，可自行更换号码尝试。&lt;/p&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/Sora%E5%8F%B7%E7%A0%81%E9%AA%8C%E8%AF%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88_AI%E5%B0%8F%E6%B3%A2-image.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:LjpnAfO4lFYbmxpxeernfq8ndMY=&quot; /&gt;&lt;p&gt;&lt;strong&gt;3️⃣ 第三步：接收短信验证码&lt;/strong&gt;
+在sora界面输入你的号码，然后点击你所复制号码的【接收短信】按钮，进入到信息查询界面。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;号码输入&lt;/th&gt;&lt;th&gt;信息查询&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/Sora%E5%8F%B7%E7%A0%81%E9%AA%8C%E8%AF%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88_AI%E5%B0%8F%E6%B3%A2-image-1.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:1ranMZkGVKfbCTpSGw8TGwic-Zs=&quot; /&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/Sora%E5%8F%B7%E7%A0%81%E9%AA%8C%E8%AF%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88_AI%E5%B0%8F%E6%B3%A2-image-2.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:94e68RKpEMKy5jyj4aoQnUrDcwA=&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;4️⃣ 第四步：完成验证&lt;/strong&gt;
+进入查看最新置顶的短信，sora短信的格式文本一般为：&lt;span&gt;&lt;strong&gt;Your OpenAI verification code is&lt;/strong&gt;&lt;/span&gt;。
+在页面收到短信后，我们只需要填写后面出现的六位数字即可验证成功。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;短信提取&lt;/th&gt;&lt;th&gt;验证成功&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/Sora%E5%8F%B7%E7%A0%81%E9%AA%8C%E8%AF%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88_AI%E5%B0%8F%E6%B3%A2-image-3.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:0w2duuOxYg7wa3RlBuRxV_HktMk=&quot; /&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/Sora%E5%8F%B7%E7%A0%81%E9%AA%8C%E8%AF%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88_AI%E5%B0%8F%E6%B3%A2-image-4.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:v7ETfgqLzr_4VxzZS1CP5ZeOZzY=&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;hr /&gt;&lt;/section&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;sora创作站点推荐&lt;a href=&quot;#sora创作站点推荐&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;如果大家平时次数不够用，或者是想体验sora2pro的模型，欢迎来小波的sora站点使用。
+即可用自己创作好的角色（模型权限记得公开）批量生成视频，或者是使用sora2pro的模型。&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;💡 &lt;strong&gt;站点优势&lt;/strong&gt;
+目前普通模型0.2/条 pro模型2元/条 生成出来的视频均为无水印。&lt;/p&gt;&lt;/blockquote&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/Sora%E5%8F%B7%E7%A0%81%E9%AA%8C%E8%AF%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88_AI%E5%B0%8F%E6%B3%A2-image-5.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:jSYSaN9fjvUy2pmpdFwkSuopmHo=&quot; /&gt;&lt;p&gt;🔗 具体功能及操作教程可看：&lt;a href=&quot;https://o4tpocgunh.feishu.cn/wiki/JWTwww4HtimmLpkP5GLcKJaCn6c&quot; target=&quot;_blank&quot;&gt;Sora 创作站教程_AI小波&lt;/a&gt;&lt;/p&gt;&lt;/section&gt;</content:encoded></item><item><title>Gemini掉订阅处理方法</title><link>https://blog.aixiaobo.cn/posts/gemini%E6%8E%89%E8%AE%A2%E9%98%85%E5%A4%84%E7%90%86%E6%96%B9%E6%B3%95_ai%E5%B0%8F%E6%B3%A2/</link><guid isPermaLink="true">https://blog.aixiaobo.cn/posts/gemini%E6%8E%89%E8%AE%A2%E9%98%85%E5%A4%84%E7%90%86%E6%96%B9%E6%B3%95_ai%E5%B0%8F%E6%B3%A2/</guid><description>谷歌开始清算啦！</description><pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate><content:encoded>&lt;div&gt;
+    &lt;div&gt;🚀 小波的 AI 创作与服务导航&lt;/div&gt;
+    &lt;div&gt;
+        &lt;div&gt;
+            &lt;span&gt;📚 ChatGPT plus直充:&lt;/span&gt; &lt;a href=&quot;http://aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;gpt.aixiaobo.cn&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;💬 联系方式:&lt;/span&gt; 微信加 &lt;span&gt;aibxs606&lt;/span&gt; (GPT Plus)
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;🛒 Gemini成品号:&lt;/span&gt; &lt;a href=&quot;https://aixiaobo.icu/&quot; target=&quot;_blank&quot;&gt;aixiaobo.icu&lt;/a&gt; (Gemini pro)
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;🎬 Sora 创作站点:&lt;/span&gt; &lt;a href=&quot;http://sora.aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;sora.aixiaobo.cn&lt;/a&gt; (免魔法/无水印)
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;🖼️ Nano banana创作站点:&lt;/span&gt; &lt;a href=&quot;http://nb.aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;nb.aixiaobo.cn&lt;/a&gt; (Nano Banana)
+        &lt;/div&gt;
+         &lt;div&gt;
+            &lt;span&gt;📊 api站点:&lt;/span&gt; &lt;a href=&quot;http://ppt.aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;api.aixiaobo.cn&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;section&gt;&lt;h1&gt;网传谷歌清算的原因（不确定）&lt;a href=&quot;#网传谷歌清算的原因不确定&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;&lt;blockquote&gt;&lt;p&gt;💡 &lt;strong&gt;核心提示&lt;/strong&gt;：关于谷歌客服那边，小波也有去人工咨询过（在 Google One 页面可以找到客服）。得到的反馈是：&lt;span&gt;&lt;strong&gt;一个是 IP 乱跳国家，一个是学生认证信息和 IP 不符合，最后导致取消且不可恢复。&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/Gemini%E6%8E%89%E8%AE%A2%E9%98%85%E5%A4%84%E7%90%86%E6%96%B9%E6%B3%95_Ai%E5%B0%8F%E6%B3%A2-image-4.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:n1j1j33v3SL_zQ9N8aAbj7ZUlSk=&quot; /&gt;&lt;/th&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/Gemini%E6%8E%89%E8%AE%A2%E9%98%85%E5%A4%84%E7%90%86%E6%96%B9%E6%B3%95_Ai%E5%B0%8F%E6%B3%A2-image-5.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:5q-VadcZl7Jy74zfxbsiJUveA0U=&quot; /&gt;&lt;/th&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/Gemini%E6%8E%89%E8%AE%A2%E9%98%85%E5%A4%84%E7%90%86%E6%96%B9%E6%B3%95_Ai%E5%B0%8F%E6%B3%A2-image-3.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:ln_fH9VCCN60F78-29ZhtnocV4k=&quot; /&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;em&gt;被清算邮件提醒&lt;/em&gt;&lt;/td&gt;&lt;td&gt;&lt;em&gt;退款邮件提醒&lt;/em&gt;&lt;/td&gt;&lt;td&gt;&lt;em&gt;真实资料一样被清算&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;📌 目前掉订阅没有任何规律，1key 过的、手搓的、家宽的、异地 IP 的、edu 过的、虚拟卡过的、实体卡过的，目前都有被清算的案例。&lt;span&gt;&lt;strong&gt;既然没有任何规律，大家就不必过于纠结。&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr /&gt;&lt;section&gt;&lt;h2&gt;账号如何保留对话继续使用？&lt;a href=&quot;#账号如何保留对话继续使用&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;section&gt;&lt;h3&gt;官方直充&lt;a href=&quot;#官方直充&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;🧑‍🤝‍🧑 &lt;strong&gt;适合人群&lt;/strong&gt;：追求稳定、长期续费使用的客户，不喜欢折腾。&lt;/p&gt;&lt;p&gt;谷歌直充是支持国内信用卡的！这里推荐使用招商的 &lt;span&gt;&lt;strong&gt;运通卡或者全币种 Visa&lt;/strong&gt;&lt;/span&gt;，需要的可以自行申请一张。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;操作步骤&lt;/strong&gt;：&lt;/p&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;清理旧资料&lt;/strong&gt;：先在管理支付设置里面删除全部旧的付款资料。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;切换网络&lt;/strong&gt;：切换至新加坡的魔法网络环境 🌐。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;绑定卡片&lt;/strong&gt;：在谷歌支付里面绑定好自己的国内 Visa/运通卡片。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;完成支付&lt;/strong&gt;：成功绑定后即可选择套餐进行支付。&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;🔗 &lt;strong&gt;Google One 介绍页面&lt;/strong&gt;：&lt;a href=&quot;https://one.google.com/about/&quot; target=&quot;_blank&quot;&gt;点击访问&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/Gemini%E6%8E%89%E8%AE%A2%E9%98%85%E5%A4%84%E7%90%86%E6%96%B9%E6%B3%95_Ai%E5%B0%8F%E6%B3%A2-image-2.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:3Iup9FrD7DmCEmNKVYxOhDQmQU0=&quot; /&gt;&lt;/th&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/Gemini%E6%8E%89%E8%AE%A2%E9%98%85%E5%A4%84%E7%90%86%E6%96%B9%E6%B3%95_Ai%E5%B0%8F%E6%B3%A2-image-1.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:QDzcvR_bj19lhGsy6DWOfzJoGU4=&quot; /&gt;&lt;/th&gt;&lt;th&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/Gemini%E6%8E%89%E8%AE%A2%E9%98%85%E5%A4%84%E7%90%86%E6%96%B9%E6%B3%95_Ai%E5%B0%8F%E6%B3%A2-image.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:ZN9BVzNV4bcwmoCLcRz1OZQWjQg=&quot; /&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;em&gt;步骤一：先删除旧的付款资料&lt;/em&gt;&lt;/td&gt;&lt;td&gt;&lt;em&gt;步骤二：添加自己的国内 Visa 卡&lt;/em&gt;&lt;/td&gt;&lt;td&gt;&lt;em&gt;步骤三：选择自己的套餐进行充值即可&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;hr /&gt;&lt;/section&gt;&lt;section&gt;&lt;h3&gt;家庭组&lt;a href=&quot;#家庭组&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;&lt;blockquote&gt;&lt;p&gt;ℹ️ &lt;strong&gt;官方描述&lt;/strong&gt;：谷歌家庭群组（Google Family Group）是一项免费服务，可让您与多达五位家庭成员共享 Google 的各种产品和服务。通过创建一个家庭群组，您可以更轻松地管理家庭成员的数字生活、共享购买的内容以及协同使用 Google 的各项实用功能。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;一句话总结：一人开会员，最多可五人共享！且各自数据完全独立，不用担心对话隐私或时间冲突，非常方便。&lt;/strong&gt;&lt;/span&gt; ✨&lt;/p&gt;&lt;p&gt;关于具体的权益限制，大家可以参考相关的权益表格（此处暂略）。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;相关资源直达&lt;/strong&gt;：&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;🚗 9月份小波出过的家庭组拼车教程，请查看：&lt;a href=&quot;https://my.feishu.cn/wiki/JJeawbIwxiHFa5kpaIFc4qS9nLb?from=from_copylink&quot; target=&quot;_blank&quot;&gt;Gemini官方拼车工具_AI小波&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🛒 如果大家也需要 Gemini Pro 的拼车服务，可前往商店：&lt;a href=&quot;https://aixiaobo.icu/item/32&quot; target=&quot;_blank&quot;&gt;点击前往选购&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;上车后支持免费体验 24 小时，如果发现不能满足自己的需求，3 天内可申请全额退款~&lt;/strong&gt;&lt;/span&gt; 🛡️&lt;/p&gt;&lt;/section&gt;&lt;/section&gt;&lt;/section&gt;</content:encoded></item><item><title>1分钟搞定谷歌账号转区</title><link>https://blog.aixiaobo.cn/posts/1%E5%88%86%E9%92%9F%E6%90%9E%E5%AE%9A%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E8%BD%AC%E5%8C%BA_ai%E5%B0%8F%E6%B3%A2/</link><guid isPermaLink="true">https://blog.aixiaobo.cn/posts/1%E5%88%86%E9%92%9F%E6%90%9E%E5%AE%9A%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E8%BD%AC%E5%8C%BA_ai%E5%B0%8F%E6%B3%A2/</guid><description>修改谷歌账号地区归属教程分享</description><pubDate>Sun, 18 Jan 2026 00:00:00 GMT</pubDate><content:encoded>&lt;div&gt;
+    &lt;div&gt;🚀 小波的 AI 创作与服务导航&lt;/div&gt;
+    &lt;div&gt;
+        &lt;div&gt;
+            &lt;span&gt;📚 ChatGPT plus直充:&lt;/span&gt; &lt;a href=&quot;http://aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;gpt.aixiaobo.cn&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;💬 联系方式:&lt;/span&gt; 微信加 &lt;span&gt;aibxs606&lt;/span&gt; (GPT Plus)
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;🛒 Gemini成品号:&lt;/span&gt; &lt;a href=&quot;https://aixiaobo.icu/&quot; target=&quot;_blank&quot;&gt;aixiaobo.icu&lt;/a&gt; (Gemini pro)
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;🎬 Sora 创作站点:&lt;/span&gt; &lt;a href=&quot;http://sora.aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;sora.aixiaobo.cn&lt;/a&gt; (免魔法/无水印)
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;span&gt;🖼️ Nano banana创作站点:&lt;/span&gt; &lt;a href=&quot;http://nb.aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;nb.aixiaobo.cn&lt;/a&gt; (Nano Banana)
+        &lt;/div&gt;
+         &lt;div&gt;
+            &lt;span&gt;📊 api站点:&lt;/span&gt; &lt;a href=&quot;http://ppt.aixiaobo.cn&quot; target=&quot;_blank&quot;&gt;api.aixiaobo.cn&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;此文档主要是讲解如何修改谷歌的账号地区。成功修改地区之后，有概率能恢复 Gemini 的使用资格以及组建家庭组。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;💡 &lt;strong&gt;核心提示&lt;/strong&gt;
+谷歌账号拥有两个独立的地区系统：&lt;span&gt;&lt;strong&gt;一个是账号地区，另一个是 Google Play 商店地区。&lt;/strong&gt;&lt;/span&gt;
+本教程重点讲解如何修改&lt;strong&gt;账号地区&lt;/strong&gt;（商店地区的修改教程将在后续推出）。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;section&gt;&lt;h2&gt;1. 如何查看自己 Google 账号地区&lt;a href=&quot;#1-如何查看自己-google-账号地区&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;只需简单三步，即可确认您当前账号所属的国家或地区：&lt;/p&gt;&lt;ol&gt;
+&lt;li&gt;🌐 &lt;strong&gt;登录 Google 账号：&lt;/strong&gt; 访问 &lt;a href=&quot;http://www.google.com&quot; target=&quot;_blank&quot;&gt;www.google.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📜 &lt;strong&gt;查看服务条款：&lt;/strong&gt; 点击页面底部的“服务条款”，或直接访问链接：&lt;a href=&quot;https://policies.google.com/terms&quot; target=&quot;_blank&quot;&gt;https://policies.google.com/terms&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/1%E5%88%86%E9%92%9F%E6%90%9E%E5%AE%9A%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E8%BD%AC%E5%8C%BA_AI%E5%B0%8F%E6%B3%A2-image.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:A55moV-ODBlRy0eSaN2_lNag5V8=&quot; /&gt;&lt;ol&gt;
+&lt;li&gt;📍 &lt;strong&gt;确认当前地区：&lt;/strong&gt; 在服务条款页面中，您可以看到“国家/地区版本：XX”（如下图所示）&lt;/li&gt;
+&lt;/ol&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/1%E5%88%86%E9%92%9F%E6%90%9E%E5%AE%9A%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E8%BD%AC%E5%8C%BA_AI%E5%B0%8F%E6%B3%A2-image-1.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:-pIFTYQJ5F3np2BVfh3ZGQa9bOs=&quot; /&gt;&lt;hr /&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2&gt;2. 更改 Google 账号地区的教程&lt;a href=&quot;#2-更改-google-账号地区的教程&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Google 账号所属的国家或地区并非一成不变。通常情况下，当您长期使用某地的 IP 登录后，系统检测到变化会自动为您更改。如果没有自动触发，请按照以下步骤自行申请修改。&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;⚠️ &lt;strong&gt;修改前重要注意事项&lt;/strong&gt;
+&lt;span&gt;&lt;strong&gt;强烈建议在操作前，先使用您希望修改的目标国家或地区 IP 登录 Google 账号，并保持该 IP 连续登录一周左右，这能大幅提升成功率！&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;section&gt;&lt;h3&gt;核心操作步骤&lt;a href=&quot;#核心操作步骤&quot;&gt;&lt;span&gt;#&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;🔗 &lt;strong&gt;进入专属申请通道：&lt;/strong&gt; 点击访问 &lt;a href=&quot;https://policies.google.com/country-association-form&quot; target=&quot;_blank&quot;&gt;一键修改谷歌地区直达链接&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📝 &lt;strong&gt;填写地区申请表：&lt;/strong&gt; 按照页面提示填写所需信息。如果您目标地区选择的是&lt;strong&gt;美国&lt;/strong&gt;，建议在填写具体州时，选择&lt;strong&gt;免税州&lt;/strong&gt;以规避后续可能产生的税务费用。&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;🇺🇸 推荐免税州名称&lt;/th&gt;&lt;th&gt;💰 税务特点说明&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;阿拉斯加州 (Alaska)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;无州级销售税，但部分城市可能征收地方税。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;特拉华州 (Delaware)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;完全无销售税，是企业注册的热门选择。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;蒙大拿州 (Montana)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;完全没有州级销售税。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;新罕布什尔州 (New Hampshire)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;无销售税。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;俄勒冈州 (Oregon)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;无销售税。&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;ol&gt;
+&lt;li&gt;🤖 &lt;strong&gt;填写申请原因：&lt;/strong&gt; 申请原因请选择“其他”，并在文本框中用英文描述您的诉求。您可以直接复制以下提示词，使用 AI 工具为您生成地道的英文申请理由：&lt;/li&gt;
+&lt;/ol&gt;&lt;blockquote&gt;&lt;p&gt;💡 &lt;strong&gt;AI 辅助生成理由提示词&lt;/strong&gt;
+你是一名专业的谷歌申诉专家。请根据以下信息，为我撰写一段用于“谷歌账号转区”的申请理由：&lt;/p&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;核心需求：&lt;/strong&gt; 我需要将账号地区更改为 &lt;strong&gt;[填入目标国家，如：美国]&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;申请原因（请从中选择一项或多项）：&lt;/strong&gt; &lt;strong&gt;[选项 A：长期定居/工作；选项 B：留学深造；选项 C：长期跨国商务出差；选项 D：更换了当地银行卡无法支付]&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;撰写要求：&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;语言：&lt;/strong&gt; 必须使用地道的英文。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;格式：&lt;/strong&gt; 仅输出一段话，不要写成信件，直接陈述事实和诉求。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;内容重点：&lt;/strong&gt; 强调目前地区不符导致我无法下载当地的核心应用（如银行、交通、政务）以及无法使用当地支付方式。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;字数：&lt;/strong&gt; 200-300 字左右，专业且有说服力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;/blockquote&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/1%E5%88%86%E9%92%9F%E6%90%9E%E5%AE%9A%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E8%BD%AC%E5%8C%BA_AI%E5%B0%8F%E6%B3%A2-image-2.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:weB7fK_8BGUwonCB005SQVwjHjY=&quot; /&gt;&lt;ol&gt;
+&lt;li&gt;⏳ &lt;strong&gt;提交并等待审核：&lt;/strong&gt; 提交申请后，大约 2-3 天系统会将审核结果发送至您的邮箱。
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;strong&gt;如果申请失败：&lt;/strong&gt;&lt;/span&gt; 失败原因大概率是“使用目标 IP 登录该账号的时间过短”。请继续保持目标 IP 活跃，一周后再次重复上述步骤即可。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;🎉 &lt;strong&gt;附：更改成功后的官方邮件通知示例&lt;/strong&gt;&lt;/p&gt;&lt;img src=&quot;https://img.aixiaobo.cn/image/1%E5%88%86%E9%92%9F%E6%90%9E%E5%AE%9A%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E8%BD%AC%E5%8C%BA_AI%E5%B0%8F%E6%B3%A2-image-3.png?e=9000000000&amp;amp;token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:6lncGMvahKYbmaOakjU9MPb5gmI=&quot; /&gt;&lt;/section&gt;&lt;/section&gt;</content:encoded></item></channel></rss>
