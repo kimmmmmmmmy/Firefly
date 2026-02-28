@@ -146,7 +146,10 @@ draft: false
 ---
 
 ### 🔄 突发：通过认证后资格丢失的最新解决方法（1227更新）
-<iframe src="https://player.bilibili.com/player.html?bvid=16pB6BVEyX" sandbox="allow-scripts allow-same-origin allow-presentation allow-forms allow-popups allow-downloads" allowfullscreen allow="encrypted-media; fullscreen; autoplay" referrerpolicy="strict-origin-when-cross-origin" frameborder="0" style="width: 100%; min-height: 461px; border-radius: 8px;"></iframe>
+
+
+
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=16pB6BVEyX&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 如果你的账号在显示“通过认证”后，再次回到链接发现无法进入下一步：
 1. 请点击这个链接：[官方套餐订阅入口](https://one.google.com/ai?utm_source=antigravity&utm_campaign=argon_limit_reached&pli=1&g1_landing_page=75)
