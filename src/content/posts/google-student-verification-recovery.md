@@ -1,6 +1,6 @@
 ---
 title: 谷歌账号恢复学生认证资格全流程
-published: 2026-02-18
+published: 2026-02-27
 description: 帮你排除各种丢失学生认证资格的原因
 tags: [谷歌, Gemini, 教程]
 image: "https://img.aixiaobo.cn/image/%E5%8D%9A%E5%AE%A2%E5%B0%81%E9%9D%A2_02.jpg?e=9000000000&token=dLq9-r2FOwOJvQD81bmEpSNQXrE16AAp5zgi0RBW:oqaVzF1HAD1LQBt-YyDW8Eud1Jg="
